@@ -1,0 +1,2 @@
+hey now i am learning branching. when more thaN 1 DEVELOPER IS WORKING ON THE SAME REPO WE NEED BRANCHING. When we create a branch the last commit becoes the first commit of the branch. when the job
+is done we can merge the branch into master then the branch code will reflect in main file.
